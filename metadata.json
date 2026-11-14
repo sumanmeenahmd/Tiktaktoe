@@ -1,0 +1,6 @@
+{
+  "name": "Tik Tay Toy",
+  "description": "Play Tic-Tac-Toe against an adaptive computer opponent with Easy, Medium, and Unbeatable difficulty levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
